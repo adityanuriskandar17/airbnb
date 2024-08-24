@@ -52,3 +52,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use MongoDB for the database
 gem 'mongoid'
+gem "tailwindcss-rails", "~> 2.5"
